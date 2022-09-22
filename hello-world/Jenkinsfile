@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Static Analysis') {
             steps {
-                echo 'Hello Anuja Shirode' 
+                echo 'Hello Kaustubh Thakare' 
             }
         }
         stage('Compile') {
